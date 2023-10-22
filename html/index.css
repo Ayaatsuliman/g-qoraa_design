@@ -1,0 +1,725 @@
+.group1{
+    direction: rtl;
+    box-sizing: border-box; 
+    position: absolute;
+    width: 100%; 
+    height: 85px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);
+    background-attachment: scroll;
+    .r{
+        /* راسلنا */
+        position: absolute;
+        left: 456px;
+        top: 21px;
+        font-family: 'Cairo';
+        font-size: 22px;
+        color: #383838;}
+    .m{
+        /* من نحن */
+        position: absolute;
+        left: 579px;
+        top: 21px;
+        font-family: 'Cairo';
+        font-size: 22px;
+        color: #383838;}
+    .ra{
+        /* الرئيسية */
+        position: absolute;
+        left: 719px;
+        top: 21px;
+        font-family: 'Cairo';
+        font-size: 22px;
+        color: #5165FD;}
+    .search{ 
+        /* بحث */
+        position: absolute;
+        left: 1090px;
+        top: 37px;
+        text-align: right;
+        font-family: 'Cairo';
+        font-size: 18px;
+        color: #383838;
+        opacity: 0.5; 
+    
+        /* box */
+        position: absolute;
+        width: 237px;
+        height: 43px;
+        left: 1090px; 
+        top: 21px;
+        background: #EEEEEE;
+        border-radius: 2px;}
+    .tt{
+        /* تطوع معنا */
+        position: absolute;
+        left: 1259px;
+        top: 37px;
+        font-family: 'Cairo';
+        font-size: 18px;
+        text-align: center;
+        color: #FFFFFF;
+        /* box2 */
+        position: absolute;
+        width: 155px;
+        height: 43px;
+        left: 1370px;
+        top: 21px;
+        background: #5165FD;
+        border-radius: 2px; }
+    .pic{
+        /* الجريدة 1 */
+        position: absolute;
+        left: 70px;
+        top: 2px;}
+}
+.group2{
+    .img1{
+        position: absolute;
+        width: 890px;
+        height: 510px;
+        left: 185px;
+        top: 145px;
+        border-radius: 2px;}
+    .line{
+        /* Line 1 */
+        position: absolute;
+        width: 600px;
+        height: 0px;
+        left: 825px;
+        top: 440px;
+        border: 1px solid rgba(0, 0, 0, 0.15);
+        transform: rotate(90deg);}
+    .img2{
+        position: absolute;
+        left: 1170px;
+        top: 145px;
+        border-radius: 2px;}
+    .img3{
+        position: absolute;
+        left: 1170px;
+        top: 445px;
+        border-radius: 2px;
+        margin-top: 30px;}
+    .ttt{
+        /* فوائد القراءة اليومية */
+        position: absolute;
+        left: 758px;
+        top: 697px;
+        margin-top:40px ;
+        font-family: 'Cairo';
+        font-weight: 450;
+        font-size: 38px;
+        text-align: right;
+        color: #383838;}
+    .t2{
+        position: absolute;
+        left: 1310px;
+        top: 436px;
+        text-align: right;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .p{
+        position: absolute;
+        left: 1170px;
+        top: 402px;
+        font-family: 'Cairo';
+        font-size: 14px;
+        font-weight: 400;
+        color: rgba(56, 56, 56, 0.5);}
+    .p2{
+        position: absolute;
+        left: 1170px;
+        top: 735px;
+        font-family: 'Cairo';
+        font-size: 14px;
+        font-weight: 400;
+        color: rgba(56, 56, 56, 0.5);}
+    .t3{
+        color: rgba(56, 56, 56, 0.5);
+        position: absolute;
+        left: 1390px;
+        top: 760px;
+        font-family: 'Cairo';
+        font-size: 18px;
+        text-align: right;
+        color: #383838;}
+    .p3{
+        position: absolute;
+        left: 73px;
+        top:710px;
+        font-family: 'Cairo';
+        font-size: 16px;
+        color: rgba(56, 56, 56, 0.5);}
+    .d{
+        position: absolute;
+        left: 1458px;
+        top: 401px;}
+    .d2{
+        position: absolute;
+        left: 1458px;
+        top: 733px;}
+    .d3{
+        position: absolute;
+        left: 933px;
+        top: 710px;}
+}
+.group3{
+    .alaqsam{
+        position: absolute;
+        top: 895px;
+        left: 700px;}
+    .histroy{
+        /* تاريخ */
+        position: absolute;
+        left: 1299px;
+        top: 1055px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700; 
+        font-size: 23px;
+        line-height: 37px; 
+        text-align: center;
+        color: #ffffff;}
+    .adab{
+        position: absolute;
+        left: 1048px;
+        top: 1055px;
+        font-family: 'Cairo';
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: center;
+        color: #ffffff;}
+    .sh{
+        position: absolute;
+        left: 790px;
+        top: 1055px;
+        font-family: 'Cairo';
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: center;
+        color: #ffffff;}
+    .art{
+        position: absolute;
+        left: 530px;
+        top: 1055px;
+        font-family: 'Cairo';
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: center;
+        color: #ffffff;}
+    .f{
+        position: absolute;
+        left: 272px;
+        top: 1055px;
+        font-family: 'Cairo';
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: center;
+        color: #ffffff;}
+    }
+    .b{
+        position: absolute;
+        left: 1216px;
+        top: 1040px;
+    }
+    .py{
+        position: absolute;
+        width: 210px;
+        height: 115px;
+        left: 1230px;
+        top: 1040px;
+        opacity: 0.5 ;}
+    .man{
+        position: absolute;
+        width: 210px;
+        height: 115px;
+        left: 975px;
+        top: 1040px;
+        border-radius: 5px;
+        opacity: 0.5;}
+    .b1{
+        position: absolute;
+        left: 961px;
+        top: 1040px;
+        opacity: 0.9;}
+    .man2{
+        position: absolute;
+        width: 200px;
+        height: 980px;
+        left: 728px;
+        top: 1040px;
+        opacity: 0.5;}
+    .b2{
+        position: absolute;
+        left: 704px;
+        top: 1040px;}
+    .write{
+        position: absolute;
+        width: 200px;
+        height: 102px;
+        left: 472px;
+        top: 1040px;
+        border-radius: 3px;
+        opacity: 0.5;}
+    .b3{
+        position: absolute;
+        left: 448px;
+        top: 1040px;}
+    .a{
+        position: absolute;
+        width: 200px;
+        height: 102px;
+        left: 215px;
+        top: 1040px;
+        border-radius: 3px;
+        opacity: 0.5;}
+    .b4{
+        position: absolute;
+        left:190px;
+        top:1040px;}
+    .arrow{
+        box-sizing: border-box;
+        position: absolute;
+        width: 40px;
+        height: 0px;
+        left: 1540px;
+        top: 1080px;}
+    .arrow2{  
+        box-sizing: border-box;
+        position: absolute;
+        width: 40px;
+        height: 0px;
+        left: 110px;
+        top: 1080px;}
+.group4{
+    .twoline{
+        position: absolute;
+        height: 42px;
+        left: 1275px;
+        top: 1300px;
+    }
+    .thenewst{
+        /* أحدث المقالات */
+        position: absolute;
+        left: 1480px;
+        top: 1247px;
+        font-family: 'Cairo';
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 90px;
+        text-align: right;
+        color: #383838; }}
+    .all{
+        /* عرض الجميع */
+        position: absolute;
+        left: 100px;
+        top: 1287px;
+        font-family: 'Cairo';
+        font-weight: 600;
+        font-size: 23px;
+        line-height: 37px;
+        color: #5165FD;}
+    .glass{
+        position: absolute;
+        width: 640px;
+        height: 369px;
+        top: 1440px;
+        left: 950px;
+        border-radius: 2px;}
+    .book{
+        position: absolute;
+        width: 640px;
+        height: 369px;
+        top: 1895px;
+        left: 950px;
+        border-radius: 2px;}
+    .ben{
+       /* فوائد القراءة اليومية */
+       position: absolute;
+       width: 400px;
+       height: 25px;
+       left: 218px;
+       top: 730px;
+       font-family: 'Cairo';
+       font-style: normal;
+       font-weight: 400;
+       font-size: 40px;
+       line-height: 67px;
+       text-align: right;
+       color: #383838;}
+    .q{
+        position: absolute;
+        width: 680px;
+        height: 128px;
+        left: 78px;
+        top: 780px;
+        font-family: 'Cairo';
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 37px; 
+        text-align: right;
+        color: rgba(56, 56, 56, 0.5);}
+    .linee{
+        position: absolute;
+        left: 778px;
+        top: 1440px;}
+    .m1{
+         /* كتب بواسطة : أحمد السيد */
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 290px;
+        top: 711px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        color: rgba(56, 56, 56, 0.5);}
+    .read{
+        /* أقرأ المزيد */
+        position: absolute;
+        width: 90px;
+        height: 11px;
+        left: 374px;
+        top: 865px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        text-align: right;
+        color: #5165FD;}
+    .min{
+        position: absolute;
+        left: 672px;
+        top: 1800px;}
+    .benfits{
+        /* فوائد القراءة اليومية */
+        position: absolute;
+        width: 400px;
+        height: 25px;
+        left: 217px;
+        top: 962px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 67px;
+        text-align: right;
+        color: #383838;}
+    .linee22{
+        position: absolute;
+        left: 775px;
+        top: 1895px;}
+    .m2{
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 287px;
+        top: 938px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        color: rgba(56, 56, 56, 0.5);}
+    .q1{
+        position: absolute;
+        width: 680px;
+        height: 128px;
+        left: 77px;
+        top: 1015px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: right;
+        color: rgba(56, 56, 56, 0.5);}
+    .readmore{
+        position: absolute;
+        width: 90px;
+        height: 11px;
+        left: 374px;
+        top: 1103px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 30px;
+        text-align: right;
+        color: #5165FD;}
+    .min1{
+        position: absolute;
+        left: 300px;
+        top: 1165px;}
+.group5{
+    .more{
+        /* الأكثر قراءة */
+        position: absolute;
+        width: 230px;
+        height: 34px;
+        left: 1360px;
+        top: 2370px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 90px;
+        text-align: right;
+        color: rgba(56, 56, 56, 1)}
+    .reaad{
+        position: absolute;
+        height: 42px;
+        left: 1345px;
+        top: 2443px;}
+    .all1{
+        position: absolute;
+        width: 103px;
+        height: 14px;
+        left: 140px;
+        top: 2422px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 37px;
+        color: #5165FD;}
+    .r1{
+        position: absolute;
+        height: 42px;
+        left: 1480px;
+        top: 2560px;}
+    .r2{
+        position: absolute;
+        height: 42px;
+        top:2560px ;
+        left: 125px;}
+    .arabic{
+        position: absolute;
+        left: 1133px;
+        top: 2630px;
+        border-radius: 2px;}
+    .w1{
+        position: absolute;
+        left: 635px;
+        top: 2630px;
+        border-radius: 2px;}
+    .nageeb{    
+        position: absolute;
+        left: 130px;
+        top: 2630px;
+        border-radius: 2px;}
+    .minn{
+        position: absolute;
+        top: 2900px;
+        left: 1445px;}
+    .minn1{
+        position: absolute;
+        top: 2900px;
+        left: 947px;}
+    .minn2{
+        position: absolute;
+        top: 2900px;
+        left: 439px;}
+    .ahmed1{
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 540px;
+        top: 1444px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 30px;
+        color: rgba(56, 56, 56, 0.5);}
+    .ahmed2{
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 290px;
+        top: 1444px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 30px;
+        color: rgba(56, 56, 56, 0.5);}
+    .ahmed3{
+        position: absolute;
+        width: 200px;
+        height: 30px;
+        left: 38px;
+        top: 1444px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 30px;
+        color: rgba(56, 56, 56, 0.5);}
+    .arabicc{
+        /* اليوم العالمي للغة العربية */
+        position: absolute;
+        left: 1345px;
+        top: 2912px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: right;
+        color: #383838;}
+    .boook{
+        position: absolute;
+        left: 845px;
+        top: 2912px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: right;
+        color: #383838;}
+    .adab{
+        position: absolute;
+        left: 330px;
+        top: 2912px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 37px;
+        text-align: right;
+        color: #383838;  position: absolute;}
+    .ll{
+        position: absolute;
+        top: 3110px;
+        left: 170px;}
+    .sub{
+        /* اشترك ليصلك جميع المقالات */
+        position: absolute;
+        width: 549px;
+        height: 34px;
+        left:380px;
+        top: 5px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 90px;
+        color: #383838;}
+    .sub1{
+        /* ابقي علي اطلاع مع مقالتنا فور نزولها مع خدمة الرسائل البريدية هذه الخدمة مجانية تماماً */
+        position: absolute;
+        width: 505px;
+        height: 51px;
+        left: 400px; 
+        top: 140px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 37px;
+        text-align: center;
+        color: rgba(56, 56, 56, 0.8);}
+    .email{
+        position: absolute;
+        top:3380px;
+        left: 410px;}
+    .lll{
+        position: absolute;
+        top:3650px;
+        left: 20px;
+        margin-bottom: 100px;}
+    .qoraa{
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        left: 1350px;
+        top: 3780px;}
+    .social{
+        position: absolute;
+        top: 4010px;
+        left: 1322px;}
+    .we{
+        position: absolute;
+        left: 1000px;
+        top: 3790px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 22px;
+        text-align: right;
+        color: #170F49;}
+    .seen{
+        position: absolute;
+        left: 800px;
+        top: 3860px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: right;
+        color: #6F6C90;}
+    .lw{    
+        position: absolute;
+        left: 500px;
+        top: 3790px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 22px;
+        text-align: right;
+        color: #170F49;}
+    .la{
+        position: absolute;
+        left: 480px;
+        top: 3860px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: right;
+        color: #6F6C90;}
+    .mar{
+        position: absolute;
+        left: 200px;
+        top: 3810px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 22px;
+        text-align: right;
+        color: #170F49;}
+    .tv{
+        position: absolute;
+        left: 200px;
+        top: 3860px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: right;
+        color: #6F6C90;}
+    .h{
+        position: absolute;
+        top: 4070px;
+        left: 600px;}
+}
+  

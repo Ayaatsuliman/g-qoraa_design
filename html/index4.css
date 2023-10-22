@@ -1,0 +1,323 @@
+.group18{
+    position: absolute;
+    width: 682px;
+    height: 1028px;
+    left: 950px;
+    top: 75px;
+    background: linear-gradient(238.57deg, rgba(239, 239, 239, 0.59) 28.75%, rgba(239, 239, 239, 0) 76.96%);
+    filter: blur(4.5px);
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    left: 1400px;
+    top: -160px;
+    background: rgba(238, 214, 0, 0.78);
+    filter: blur(165.5px);}
+.group19{
+    .navbar{
+        direction: rtl;
+        box-sizing: border-box; 
+        position: absolute;
+        width: 100%; 
+        height: 85px;
+        left: 0px;
+        top: 0px;
+        background: #FFFFFF;
+        box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);}
+    .r{
+        /* راسلنا */
+        position: absolute;
+        left: 456px;
+        top: 21px;
+        font-family: 'Cairo';
+        font-size: 22px;
+        color: #383838;}
+    .m{
+        /* من نحن */
+        position: absolute;
+        left: 579px;
+        top: 21px;
+        font-family: 'Cairo';
+        font-size: 22px;
+        color: #383838;}
+    .ra{
+        /* الرئيسية */
+        position: absolute;
+        left: 719px;
+        top: 21px;
+        font-family: 'Cairo';
+        font-size: 22px;
+        color: #5165FD;}
+    .search{ 
+        /* بحث */
+        position: absolute;
+        left: 1090px;
+        top: 37px;
+        text-align: right;
+        font-family: 'Cairo';
+        font-size: 18px;
+        color: #383838;
+        opacity: 0.5; 
+        /* box */
+        position: absolute;
+        width: 237px;
+        height: 43px;
+        left: 1090px; 
+        top: 21px;
+        background: #EEEEEE;
+        border-radius: 2px;}
+    .tt{
+        /* تطوع معنا */
+        position: absolute;
+        left: 1259px;
+        top: 37px;
+        font-family: 'Cairo';
+        font-size: 18px;
+        text-align: center;
+        color: #FFFFFF;
+        /* box2 */
+        position: absolute;
+        width: 155px;
+        height: 43px;
+        left: 1370px;
+        top: 21px;
+        background: #5165FD;
+        border-radius: 2px; }
+    .pic{
+        position: absolute;
+        left: 70px;
+        top: 2px;}}
+.group20{
+    position: absolute;
+    width: 173px;
+    height: 173px;
+    left: 1130px;
+    top: 718px;
+    background: rgba(81, 101, 253, 0.78);
+    filter: blur(165.5px)}
+.group21{
+    .connect{
+        /* تواصل معنا */
+        position: absolute;
+        width: 350px;
+        height: 45px;
+        left: 1100px;
+        top: 120px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 72px;
+        line-height: 160%;
+        color: #383838;}
+    .us{
+        position: absolute;
+        width: 620px;
+        height: 55px;
+        left: 950px;
+        top: 285px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 160%;
+        text-align: center;
+        color: rgba(56, 56, 56, 0.74);}
+    .gr{ 
+        position: absolute;
+        width: 410px;
+        height: 410px;
+        left: 1060px;
+        top: 420px;}
+    .name{        
+        position: absolute;
+        width: 114px;
+        height: 17px;
+        left: 560px;
+        top: 195px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 450;
+        font-size: 30px;
+        line-height: 45px;
+        text-align: right;
+        color: #3F3F3F;}
+    .name1{
+        position: absolute;
+        width: 590px;
+        height: 52px;
+        left: 87px;
+        top: 280px;
+        background: #F7F7F7;
+        border-radius: 2px;}
+    .em{
+        position: absolute;
+        width: 200px;
+        height: 17px;
+        left: 475px;
+        top: 330px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 450;
+        font-size: 30px;
+        line-height: 45px;
+        text-align: right;
+        color: #3F3F3F;}
+    .em1{
+        position: absolute;
+        width: 590px;
+        height: 52px;
+        left: 87px;
+        top: 415px;
+        background: #F7F7F7;
+        border-radius: 2px;}
+    .ad{
+        position: absolute;
+        width: 200px;
+        height: 17px;
+        left: 475px;
+        top: 465px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 450;
+        font-size: 30px;
+        line-height: 45px;
+        text-align: right;
+        color: #3F3F3F;}
+    .ad1{
+        position: absolute;
+        width: 590px;
+        height: 52px;
+        left: 87px;
+        top: 550px;
+        background: #F7F7F7;
+        border-radius: 2px;}
+    .message{
+        position: absolute;
+        width: 200px;
+        height: 17px;
+        left: 475px;
+        top: 600px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 450;
+        font-size: 30px;
+        line-height: 45px;
+        text-align: right;
+        color: #3F3F3F;}
+    .message1{
+        position: absolute;
+        width: 590px;
+        height: 150px;
+        left: 87px;
+        top: 685px;
+        background: #F7F7F7;
+        border-radius: 2px;}
+    .send{
+        /* إرسل */
+        position: absolute;
+        width: 33px;
+        height: 11px;
+        left: 528px;
+        top: 100px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        color: #FFFFFF;
+        position: absolute;
+        width: 155px;
+        height: 43px;
+        left: 522px;
+        top: 870px;
+        background: #5165FD;
+        border-radius: 2px;}
+    }
+.group22{
+    .lll{
+        position: absolute;
+        top:1080px;
+        left: 20px;
+        margin-bottom: 100px;}
+    .qoraa{
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        left: 1310px;
+        top: 1220px;}
+    .social{
+        position: absolute;
+        top: 1450px;
+        left: 1285px;}
+    .we{
+        position: absolute;
+        left: 970px;
+        top: 1240px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 22px;
+        text-align: right;
+        color: #170F49;}
+    .seen{
+        position: absolute;
+        left: 770px;
+        top: 1308px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: right;
+        color: #6F6C90;}
+    .lw{    
+        position: absolute;
+        left: 480px;
+        top: 1235px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 22px;
+        text-align: right;
+        color: #170F49;}
+    .la{
+        position: absolute;
+        left: 465px;
+        top: 1305px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: right;
+        color: #6F6C90;}
+    .mar{
+        position: absolute;
+        left: 200px;
+        top: 1255px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 22px;
+        text-align: right;
+        color: #170F49;}
+    .tv{
+        position: absolute;
+        left: 190px;
+        top: 1300px;
+        font-family: 'Cairo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: right;
+        color: #6F6C90;}
+    .h{
+        position: absolute;
+        top: 1505px;
+        left: 600px;}
+}
